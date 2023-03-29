@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Concert+One&display=swap');
+
+
+#header-container{
+    color: rgb(36,34,34);
+    color: linear-gradient(180deg, rgba(36,34,34,1) 0%, rgba(2,0,36,1) 94%);
+}
+
+.me{
+    font-family: 'Concert One', cursive;
+}
+
+.customa{
+    background-color: transparent
+    
+}
